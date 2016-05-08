@@ -1,4 +1,4 @@
-# GenerateEchoUtterances
+# Generate Echo SampleUtterances.txt
 Demo of using generex to generate Echo SampleUtterances file from template
 
 For example
