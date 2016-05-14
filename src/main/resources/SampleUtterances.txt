@@ -1,47 +1,47 @@
-TripIntent from {FromStation} to {ToStation}
 TripIntent i am travelling from {FromStation} to {ToStation}
-TripIntent i am going from {FromStation} to {ToStation}
 TripIntent i am travelling to {ToStation} from {FromStation}
+TripIntent i am going from {FromStation} to {ToStation}
 TripIntent i am going to {ToStation} from {FromStation}
+TripIntent from {FromStation} to {ToStation}
 TripIntent to {ToStation} from {FromStation}
 TripIntent i am boarding at {FromStation} and going to {ToStation}
 
-NowIntent what's the next train from {FromStation} to {ToStation}
-NowIntent what time is the next train from {FromStation} to {ToStation}
-NowIntent when's the next train from {FromStation} to {ToStation}
 NowIntent when's the next train to {ToStation} from {FromStation}
+NowIntent when's the next train from {FromStation} to {ToStation}
 NowIntent what's the next train to {ToStation} from {FromStation}
+NowIntent what's the next train from {FromStation} to {ToStation}
 NowIntent what time is the next train to {ToStation} from {FromStation}
+NowIntent what time is the next train from {FromStation} to {ToStation}
 
-AskIntent what's my track
-AskIntent what's my train
-AskIntent what is my track
-AskIntent what is my train
-AskIntent where's my track
-AskIntent where's my train
-AskIntent where is my track
 AskIntent where is my train
-AskIntent track
-AskIntent train
-AskIntent tell me my track
+AskIntent where is my track
+AskIntent where's my train
+AskIntent where's my track
+AskIntent what is my train
+AskIntent what is my track
+AskIntent what's my train
+AskIntent what's my track
 AskIntent tell me my train
+AskIntent tell me my track
+AskIntent train
+AskIntent track
 
 ResetIntent start over
 ResetIntent wipe
-ResetIntent wipe trip
 ResetIntent wipe the trip
+ResetIntent wipe trip
 ResetIntent forget
-ResetIntent forget trip
 ResetIntent forget the trip
-ResetIntent clear
-ResetIntent clear trip
-ResetIntent clear the trip
+ResetIntent forget trip
 ResetIntent restart
-ResetIntent restart trip
 ResetIntent restart the trip
+ResetIntent restart trip
 ResetIntent reset
-ResetIntent reset trip
 ResetIntent reset the trip
+ResetIntent reset trip
 ResetIntent erase
-ResetIntent erase trip
 ResetIntent erase the trip
+ResetIntent erase trip
+ResetIntent clear
+ResetIntent clear the trip
+ResetIntent clear trip
